@@ -15,7 +15,7 @@ const count = ref(0)
     <button type="button" @click="count++">count is {{ count }}</button>
     <p>
       Edit
-      <code>components/HelloWorld.vue</code> Test 2
+      <code>components/HelloWorld.vue</code> Test 3
     </p>
   </div>
 
