@@ -25,7 +25,7 @@
 <script setup>
 import { ref, onMounted } from 'vue'
 
-// 🖼️ Importation des images locales
+
 import hero1 from '../assets/images/hero1.jpg'
 import hero2 from '../assets/images/hero2.jpg'
 import hero3 from '../assets/images/hero3.jpg'
@@ -39,7 +39,7 @@ onMounted(() => {
   setInterval(() => {
     index = (index + 1) % images.length
     currentImage.value = images[index]
-  }, 5000) // Change l'image toutes les 5 secondes
+  }, 5000) 
 })
 </script>
 
