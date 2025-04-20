@@ -1,5 +1,5 @@
 git add .
-git commit -m "test3"
+git commit -m "navnew"
 git push
 
 git remote add origin https://github.com/bad10ner/the-badener.git

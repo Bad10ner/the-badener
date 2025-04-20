@@ -4,8 +4,9 @@
         <div class="text-2xl font-bold">The Badener</div>
         <ul class="flex gap-6 text-sm uppercase font-medium">
           <li><a href="#home" class="hover:text-yellow-400">Accueil</a></li>
-          <li><a href="#about" class="hover:text-yellow-400">À propos</a></li>
-          <li><a href="#gallery" class="hover:text-yellow-400">Galerie</a></li>
+          <li><a href="#about" class="hover:text-yellow-400">À propos de nous</a></li>
+          <li><a href="#activité " class="hover:text-yellow-400">Activités</a></li>
+          <li><a href="#nos véhicules  " class="hover:text-yellow-400">nos véhicules</a></li>
           <li><a href="#contact" class="hover:text-yellow-400">Contact</a></li>
         </ul>
         <div>
