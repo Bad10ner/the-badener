@@ -143,9 +143,12 @@ const cars = [
   {
     name: "MERCEDES CLASSE A 4 CLASSE A 250",
     images: [
-      "https://imgur.com/GoAqekR",
-      "https://imgur.com/MyyEYkG",
-      "https://imgur.com/4IPOOZA",
+      "https://imgur.com/GoAqekR.jpg",
+      "https://imgur.com/MyyEYkG.jpg",
+      "https://imgur.com/4IPOOZA.jpg",
+      "https://imgur.com/WyILFGB.jpg",
+      "https://imgur.com/H1hq2Ke.jpg",
+      "https://imgur.com/BHnjBRL.jpg",
      
     ],
     price: "20.500€",
